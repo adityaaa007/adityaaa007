@@ -1,4 +1,4 @@
-🔭 CTO at Ouranos Robotics Private Limited<br>💬 Ask me about React, Android, GCP, AWS, Node, Express and System design<br>🤝 How to reach me aditya.orpl@gmail.com
+🔭 CTO at Ouranos Robotics Private Limited<br>💬 Ask me about System design, IoT, Networking, React, Android, GCP and AWS<br>🤝 How to reach me aditya.orpl@gmail.com
 
 
 ## 🌐 Socials:
